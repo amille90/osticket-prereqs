@@ -90,7 +90,7 @@ Step 8:
 <p>
 <img src="https://i.imgur.com/3g3S8Yh.png"/>
 </p>
-Underneath Administrator Account create a username and passowrd. These will be the credentials used to log onto the osTicket-vm within Remote Desktop. 
+Underneath Administrator Account create a username and password. These will be the credentials used to log onto the osTicket-vm within Remote Desktop. 
 </p>
 <br />
 Step 9:
