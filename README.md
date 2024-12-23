@@ -138,7 +138,7 @@ Step 14:
 <img src="https://i.imgur.com/u3SRwrA.png"/>
 </p>
 <p>
-Go back into virtual machines in Azure and you will now see the osTicket-vm add to your list of virtual machines created. Click on the osTicket-vm.
+Go back into virtual machines in Azure and you will now see the osTicket-vm added to your list of virtual machines created. Click on the osTicket-vm.
 </p>
 <br />
 Step 15:
