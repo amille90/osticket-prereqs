@@ -198,7 +198,7 @@ Step 20:
 <img src="https://i.imgur.com/YeDJ4Vy.png"/>
 </p>
 <p>
-Go the home menu of the osticket-vm remote desktop and type in Control Panel. Click on and open it. The control panel is where IIS and CGI will be installed and enabled.
+Go to the home menu of the osticket-vm remote desktop and type in Control Panel. Click on and open it. The control panel is where IIS and CGI will be installed and enabled.
 </p>
 <br />
 Step 21:
