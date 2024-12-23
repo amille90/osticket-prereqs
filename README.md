@@ -122,7 +122,7 @@ Step 12:
 <img src="https://i.imgur.com/sG5ZzKS.png"/>
 </p>
 <p>
-Next, deployemnt in progress page will pop up.
+Next, deployment in progress page will pop up.
 </p>
 <br />
 Step 13:
