@@ -167,7 +167,7 @@ After adding the osTicket-vm pc now log into it with the credentials you created
 <br />
 
 
-<h2>The next half of this project tutorial will now focus on the installing the osTicket installation files.</h2>
+<h2>The next half of this project tutorial will now focus on installing the osTicket installation files.</h2>
 
 
 </p>
