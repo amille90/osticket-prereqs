@@ -24,7 +24,8 @@ This project tutorial outlines, oberserves, and walks through the prerequisites 
 - Internet Information Services IIS/CGI
 
 <h2>Installation Steps</h2>
-The first half of this tutorial will focus on setting up the osTicket Virtual Machine in Azure. 
+
+<h2>The first half of this tutorial will focus on setting up the osTicket Virtual Machine in Azure. </h2>
 
 </p>
 
@@ -113,165 +114,166 @@ Step 11:
 <img src="https://i.imgur.com/5O25ETN.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Validation banner should pop up. Press Create.
 </p>
 <br />
-
+Step 12:
 <p>
 <img src="https://i.imgur.com/sG5ZzKS.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next deployemnt in progress page will pop up.
 </p>
 <br />
-
+Step 13:
 <p>
 <img src="https://i.imgur.com/gjW6bxW.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Deployment should be complete.
 </p>
 <br />
-
+Step 14:
 <p>
 <img src="https://i.imgur.com/u3SRwrA.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go back into virtual machines in Azure and you will now see the osTicket-vm add to your list of virtual machines created. Click on the osTicket-vm.
 </p>
 <br />
-
+Step 15:
 <p>
 <img src="https://i.imgur.com/GRFmURu.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Copy the Public IP address of the  osTicket-vm.
 </p>
 <br />
-
+Step 16:
 <p>
 <img src="https://i.imgur.com/olfcXin.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go into remote desktop and add the osTicket-vm under add a pc. Make sure to paste the ip adddress within pc name box and in display name call it osTicket-vm then press save.
 </p>
 <br />
-
-<p>
-<img src="https://imgur.com/a/1KyBUNK"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
+Step 17:
 <p>
 <img src="https://i.imgur.com/3NQh08n.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After adding the osTicket-vm pc now log into it with the credentials you created in the Adminstrator Account section while creating the virtual machine in Azure.
 </p>
 <br />
 
+
+<h2>The next half of this project tutorial will now focus on the installing the osTicket installation files.</h2>
+
+
+</p>
+
+
+</p>
+<br />
+Step 18:
 <p>
+
 <img src="https://i.imgur.com/0GYKC6z.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Upload the osTicket installation file onto your computer. 
 </p>
 <br />
-
+Step 19:
 <p>
 <img src="https://i.imgur.com/hjaRlgZ.png"/> 
 </p>
 <img src="https://i.imgur.com/lSXJAFT.png"/>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now download and drag the file onto your desktop. If you open up the file in file explorer you will see there are multiple files to be installed within that one zip folder. The following steps will walkthrough on how to do that.
 </p>
 <br />
-
+Step 20: 
 <p>
 <img src="https://i.imgur.com/YeDJ4Vy.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go the home menu of the osticket-vm remote desktop and type in Control Panel. Click on and open it. The control panel is where IIS and CGI will be installed and enabled.
 </p>
 <br />
-
+Step 21:
 <p>
 <img src="https://i.imgur.com/s3POcNt.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Programs/Uninstall a program.
 </p>
 <br />
-
+Step 22:
 <p>
 <img src="https://i.imgur.com/zD4r7FM.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, click on Turn Windows features on or off.
 </p>
 <br />
-
+Step 23:
 <p>
 <img src="https://i.imgur.com/O6aLeeE.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The Turn Windows features on/off box will pop up. Check of Internet Information Services then expand the dropdown box.
 </p>
 <br />
-
+Step 24:
 <p>
 <img src="https://i.imgur.com/Ct62fP1.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next expand World Wide Web services. 
 </p>
 <br />
-
+Step 25:
 <p>
 <img src="https://i.imgur.com/08Kq3XK.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next expand Application Development features and check off CGI. 
 </p>
 <br />
-
+Step 26:
 <p>
 <img src="https://i.imgur.com/bYbubpk.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Press OK.
 </p>
 <br />
-
-
-
+Step 27:
 <p>
 <img src="https://i.imgur.com/0f9vnC6.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Windows will begin to search for and install the required files.
 </p>
 <br />
-
+Step 28: 
 <p>
 <img src="https://i.imgur.com/Z5oNh7i.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Press close after Windows has completed the requested changes.
 </p>
 <br />
-
+Step 29:
 <p>
 <img src="https://i.imgur.com/x3WJADU.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, go into the internet browser within the osTicket-vm remote desktop and type in 127.0.0.1. Press enter and the information services (IIS) page should pop up. FYI: If this page is not activated OsTicket can't be installed.
 </p>
 <br />
-
+Step 28:
 <p>
 <img src="https://i.imgur.com/11dNOgV.png"/>
 </p>
