@@ -42,7 +42,7 @@ Step 2:
 <img src="https://i.imgur.com/xReHfgM.png"/>
 </p>
 <p>
-Click on the +create tab and then press on Azure virtual machine in Azure.
+Click on the +create tab and then press on Azure virtual machine.
 </p>
 <br />
 Step 3:
