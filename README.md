@@ -3,129 +3,112 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+This project tutorial outlines, oberserves, and walks through the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Internet Information Services (IIS)/ CGI
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows10 Pro</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Computer Desktop/Laptop
+- Wifi Connection
+- Azure Account
+- OsTicket Installation zip files
+- Internet Information Services IIS/CGI
 
 <h2>Installation Steps</h2>
+The first half of this tutorial will focus on setting up the osTicket Virtual Machine in Azure. 
 
+</p>
+
+Step 1:
 <p>
 <img src="https://i.imgur.com/IUkxUna.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log into Azure and go to Virtual Machines
 </p>
 <br />
-
+Step 2:
 <p>
 <img src="https://i.imgur.com/xReHfgM.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click on the +create tab and then press on Azure virtual machine in Azure.
 </p>
 <br />
-
+Step 3:
 <p>
 <img src="https://i.imgur.com/gKvWXMX.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For resource group ceate a new one and call it OsTicketLab_RG or create your own name.
 </p>
 <br />
 
+Step 4:
 <p>
 <img src="https://i.imgur.com/ClhJtv5.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For virtual machine name call it osticket-vm, and choose appropiate region according to your location.
 </p>
 <br />
-
+Step 5: 
 <p>
 <img src="https://i.imgur.com/Tr3B098.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Choose an availabilty zone.
 </p>
 <br />
-
+Step 6:
 <p>
 <img src="https://i.imgur.com/yf3abbq.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For image choose Windows10 Pro, version 22H2.
 </p>
 <br />
-
+Step 7:
 <p>
 <img src="https://i.imgur.com/KPYAXj7.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For size click on standard_D2s_v3-2 vcpus, 8 GiB memory.
 </p>
 <br />
-
+Step 8:
 <p>
 <img src="https://i.imgur.com/3g3S8Yh.png"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Underneath Administrator Account create a username and passowrd. These will be the credentials used to log onto the osTicket-vm within Remote Desktop. 
 </p>
 <br />
-
+Step 9:
 <p>
 <img src="https://i.imgur.com/x1RTUsx.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Make sure to check off the checkbox underneath licensing.
 </p>
 <br />
-
+Step 10:
 <p>
 <img src="https://i.imgur.com/POciVcQ.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Press Review and Create.
 </p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/POciVcQ.png"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/YBFkLQD.png"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
+Step 11:
 <p>
 <img src="https://i.imgur.com/5O25ETN.png"/>
 </p>
