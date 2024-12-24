@@ -1051,9 +1051,6 @@ This here concludes the project tutorial of the prerequisites, installation and 
 
 
 
-https://i.imgur.com/DuRWDsV.png
-
-https://i.imgur.com/x2JIZEL.png
 
 
 
