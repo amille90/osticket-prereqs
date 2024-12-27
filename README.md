@@ -328,7 +328,7 @@ Step 32: For the liscense agreement press agree and them click next.
 
 </p>
 <br />
-Step 33: The PHP Manager will begin to install. Alllow for it to finish downloading. 
+Step 33: The PHP Manager will begin to install. Allow for it to finish installing. 
 </p>
 <p>
 <img src="https://i.imgur.com/Epv6Eko.png"/>
