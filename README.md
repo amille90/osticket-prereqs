@@ -963,7 +963,7 @@ Step 103: Click on select a principle.
 
 </p>
 <br />
-Step 104: Then type in everyone in th object name box.
+Step 104: Then type in everyone in the object name box.
 </p>
 <p>
 <img src="https://i.imgur.com/u833tp9.png"/>
