@@ -206,7 +206,7 @@ Step 21: Go to Programs/Uninstall a program.
 <img src="https://i.imgur.com/s3POcNt.png"/>
 </p>
 <p>
-Go to Programs/Uninstall a program.
+
 </p>
 <br />
 Step 22: Next, click on Turn Windows features on or off.
@@ -442,379 +442,379 @@ Step 50: The Microsoft Visual C++ page should pop up. Press Install.
 
 </p>
 <br />
-Step 51:
+Step 51: Installation setup should be successful. Press close.
 <p>
 <img src="https://i.imgur.com/zJRcfvo.png"/>
 </p>
 <p>
-Installation setup should be successful. Press close.
+
 </p>
 <br />
-Step 52:
+Step 52: Next, install the MySQL 5.5.62 file. (mysql-5.5.62-win32) Click on and open up.
 <p>
 <img src="https://i.imgur.com/RfgzvK5.png"/>
 </p>
 <p>
-Next, install the MySQL 5.5.62 file. (mysql-5.5.62-win32) Click on and open up.
+
 </p>
 <br />
-Step 53:
+Step 53: The MySQL serve page should pop up. Press next.
 <p>
 <img src="https://i.imgur.com/2HsOkeG.png"/>
 </p>
 <p>
-The MySQL serve page should pop up. Press next.
+
 </p>
 <br />
-Step 54:
+Step 54: Press next for the end-user agreement.
 <p>
 <img src="https://i.imgur.com/kmNx9UQ.png"/>
 </p>
 <p>
-Press next for the end-user agreement.
+
 </p>
 <br />
-Step 55:
+Step 55: For setup type press 'Typical', then press next.
 <p>
 <img src="https://i.imgur.com/Tv7Nc1T.png"/>
 </p>
 <p>
-For setup type press 'Typical', then press next.
+
 </p>
 <br />
-Step 56:
+Step 56: Click install.
 <p>
 <img src="https://i.imgur.com/MFYUsQY.png"/>
 </p>
 <p>
-Click install.
+
 </p>
 <br />
-Step 57:
+Step 57: Installation process should begin. Allow to finish installing then press next.
 <p>
 <img src="https://i.imgur.com/WXfYpCv.png"/>
 </p>
 <p>
-Installation process should begin. Allow to finish installing then press next.
+
 </p>
 <br />
-Step 58:
+Step 58: The MySQL completion page should come up, press finish.
 <p>
 <img src="https://i.imgur.com/VFykrpv.png"/>
 </p>
 <p>
-The MySQL completion page should come up, press finish.
+
 <br />
-Step 59:
+Step 59: Next the MySQL Server Instance Configuration Wizard needs to be configured and installed. Press next. 
 <p>
 <img src="https://i.imgur.com/9QUTc4L.png"/>
 </p>
 <p>
-Next the MySQL Server Instance Configuration Wizard needs to be configured and installed. Press next. 
+
 </p>
 <br />
-Step 60:
+Step 60: On the next page click on standard configuration and press next.
 <p>
 <img src="https://i.imgur.com/t9EXzn3.png"/>
 </p>
 <p>
-On the next page click on standard configuration and press next.
+
 </p>
 <br />
-Step 61:
+Step 61: Press next.
 <p>
 <img src="https://i.imgur.com/47swqkz.png"/>
 </p>
 <p>
-Press next.
+
 </p>
 <br />
-Step 62:
+Step 62: Enter in the word "root" in both boxes.
 <p>
 <img src="https://i.imgur.com/QpnFLyr.png"/>
 </p>
 <p>
-Enter in the word "root" in both boxes.
+
 <br />
-Step 63:
+Step 63: Click on execute.
 <p>
 <img src="https://i.imgur.com/IKvATx9.png"/>
 </p>
 <p>
-Click on execute.
+
 </p>
-Step 64:
+Step 64: Once all bullets have been checked off click on finish.
 <p>
 <img src="https://i.imgur.com/uD85vB0.png"/>
 </p>
 <p>
-Once all bullets have been checked off click on finish.
+
 </p>
 <br />
-Step 65:
+Step 65: Now right click on Internet Information Services in search menu of osTicket-vm remote desktop. Click on run as administrator and IIS should open up.
 <p>
 <img src="https://i.imgur.com/tlNrgZP.png"/>
 </p>
 <p>
-Now right click on Internet Information Services in search menu of osTicket-vm remote desktop. Click on run as administrator and IIS should open up.
+
 </p>
 <br />
-Step 66:
+Step 66: Click on PHP Manager.
 <p>
 <img src="https://i.imgur.com/PTgV1SO.png"/>
 </p>
 <p>
-Click on PHP Manager.
+
 </p>
 <br />
-Step 67:
+Step 67: Next press on Register new PHP version.
 <p>
 <img src="https://i.imgur.com/jKMWGmM.png"/>
 </p>
 <p>
-Next press on Register new PHP version.
+
 </p>
 <br />
-Step 68:
+Step 68: Then press the three dotted browse box on the right hand side. 
 <p>
 <img src="https://i.imgur.com/AegH9lr.png"/>
 </p>
 <p>
-Then press the three dotted browse box on the right hand side. 
+
 </p>
 <br />
-Step 69:
+Step 69: Click on the PHP folder and click open.
 <p>
 <img src="https://i.imgur.com/9PB4s7b.png"/>
 </p>
 <p>
-Click on the PHP folder and click open.
+
 </p>
 <br />
-Step 70:
+Step 70: Next click on the bottom link that says php-cgi.
 <p>
 <img src="https://i.imgur.com/S5LKXCn.png"/>
 </p>
 <p>
-Next click on the bottom link that says php-cgi.
+
 </p>
 <br />
-Step 71:
+Step 71: Press open.
 <p>
 <img src="https://i.imgur.com/z1PRffD.png"/>
 </p>
 <p>
-Press open.
+
 </p>
 <br />
-Step 72:
+Step 72: The file link should upload in the path box. Press okay.
 <p>
 <img src="https://i.imgur.com/u2Su8Wm.png"/>
 </p>
 <p>
-The file link should upload in the path box. Press okay.
+
 </p>
 <br />
-Step 73:
+Step 73: Go into the IIS Manager, double/right click on the osticket-vm folder at the top left hand side and press the stop button.
 <p>
 <img src="https://i.imgur.com/RNXDl1o.png"/>
 </p>
 <p>
-Go into the IIS Manager, double/right click on the osticket-vm folder at the top left hand side and press the stop button.
+
 </p>
 <br />
-Step 74:
+Step 74: Next press the start button to restart the server.
 <p>
 <img src="https://i.imgur.com/rxk9V0d.png"/>
 </p>
 <p>
-Next press the start button to restart the server. 
+
 </p>
 <br />
-Step 75:
+Step 75: Go back into the osTicket file folder in file explorer and click on th osTicket-v1.15.8 zip file. Right click on it and press extract all.
 <p>
 <img src="https://i.imgur.com/3ehNcw4.png"/>
 </p>
 <p>
-Go back into the osTicket file folder in file explorer and click on th osTicket-v1.15.8 zip file. Right click on it and press extract all.
+
 </p>
 <br />
-Step 76:
+Step 76: Press the Extract button on the next page.
 <p>
 <img src="https://i.imgur.com/ZodW3Ct.png"/>
 </p>
 <p>
-Press the Extract button on the next page.
+
 </p>
 <br />
-Step 77:
+Step 77: Files should begin to download and install. Allow for the green bar to fill up to 100% completion. 
 <p>
 <img src="https://i.imgur.com/tmknFkW.png"/>
 </p>
 <p>
-Files should begin to download and install. Allow for the green bar to fill up to 100% completion. 
+
 </p>
 <br />
-Step 78:
+Step 78: Next go to and click on the Windows C drive in file explorer.
 <p>
 <img src="https://i.imgur.com/Z4u3UMW.png"/>
 </p>
 <p>
-Next go to and click on the Windows C drive in file explorer.
+
 </p>
 <br />
-Step 79:
+Step 79: Click on the inetpub folder.
 <p>
 <img src="https://i.imgur.com/5F4ao0t.png"/>
 </p>
 <p>
-Click on the inetpub folder.
+
 </p>
 <br />
-Step 80:
+Step 80: From there click on the wwwroot folder.
 <p>
 <img src="https://i.imgur.com/lXa8ALO.png"/>
 </p>
 <p>
-From there click on the wwwroot folder.
+
 </p>
 <br />
-Step 81:
+Step 81: Inside the wwwroot folder will be the two iisstart folders. Drag the "upload" folder from the osTicket-v1.15.8 file to the folder with both iisstarts. 
 <p>
 <img src="https://i.imgur.com/sgD6Ynm.png"/>
 </p>
 <p>
-Inside the wwwroot folder will be the two iisstart folders. Drag the "upload" folder from the osTicket-v1.15.8 file to the folder with both iisstarts. 
+
 </p>
 <br />
-Step 82:
+Step 82: The uplaod folder should now be inside the inetpub>wwwroot folder with the two iisstart.
 <p>
 <img src="https://i.imgur.com/R4mz4SC.png"/>
 </p>
 <p>
-The uplaod folder should now be inside the inetpub>wwwroot folder with the two iisstart.
+
 <br />
-Step 83:
+Step 83: Rename the folder to osTicket.
 <p>
 <img src="https://i.imgur.com/clIi2Ae.png"/>
 </p>
 <p>
-Rename the folder to osTicket.
+
 </p>
 <br />
-Step 84:
+Step 84: Now go back into IIS Manager, right click on osTicket in the upper left hand side and click stop.
 <p>
 <img src="https://i.imgur.com/vENeJAp.png"/>
 </p>
 <p>
-Now go back into IIS Manager, right click on osTicket in the upper left hand side and click stop.
+
 </p>
 <br />
-Step 85:
+Step 85: Next go back and press the start button to restart the server.
 <p>
 <img src="https://i.imgur.com/kxIRfDI.png"/>
 </p>
 <p>
-Next go back and press the start button to restart the server.
+
 </p>
 <br />
-Step 86:
+Step 86: Click on View sites under Manager Server on the right hand side of the IIS app.
 <p>
 <img src="https://i.imgur.com/Idd3qiv.png"/>
 </p>
 <p>
-Click on View sites under Manager Server on the right hand side of the IIS app.
+
 </p>
 <br />
-Step 87:
+Step 87: Expand down the sites folder, then expand down the default web site folder, then osTicket. Click on osTicket.
 <p>
 <img src="https://i.imgur.com/GefMdVs.png"/>
 </p>
 <p>
-Expand down the sites folder, then expand down the default web site folder, then osTicket. Click on osTicket.
+
 </p>
 <br />
-Step 88:
+Step 88: On the right hand side of IIS Manager click on Browse*80(http).
 <p>
 <img src="https://i.imgur.com/FfsSx4C.png"/>
 </p>
 <p>
-On the right hand side of IIS Manager click on Browse*80(http).
+
 </p>
 <br />
-Step 89:
+Step 89: Go back to the internet browser of the osTicket-vm remote desktop and the osTicket installer page should take place of the blue IIS hompage (127.0.0.1). To complete the osTicket installation some extentions need to be enabled.
 <p>
 <img src="https://i.imgur.com/b8sMW2D.png"/>
 </p>
 <p>
-Go back to the internet browser of the osTicket-vm remote desktop and the osTicket installer page should take place of the blue IIS hompage (127.0.0.1). To complete the osTicket installation some extentions need to be enabled.
+
 </p>
 <br />
-Step 90:
+Step 90: Go back to IIS Manager and expand the Sites folder.
 <p>
 <img src="https://i.imgur.com/kNE330T.png"/>
 </p>
 <p>
-Go back to IIS Manager and expand the Sites folder.
+
 </p>
 <br />
-Step 91:
+Step 91: Next expand the Default Web Site folder and then expand the osTicket folder.
 <p>
 <img src="https://i.imgur.com/5Oyvaas.png"/>
 </p>
 <p>
-Next expand the Default Web Site folder and then expand the osTicket folder.
+
 </p>
 <br />
-Step 92:
+Step 92: Double-click on PHP Manager.
 <p>
 <img src="https://i.imgur.com/5lFD3VA.png"/>
 </p>
 <p>
-Double-click on PHP Manager.
+
 </p>
 <br />
-Step 93:
+Step 93: Click on Enable or disable an extension link.
 <p>
 <img src="https://i.imgur.com/0KW7Fsv.png"/>
 </p>
 <p>
-Click on Enable or disable an extension link.
+
 </p>
 <br />
-Step 94:
+Step 94: Right click on php_imap.dll and press enable. 
 <p>
 <img src="https://i.imgur.com/qkNig6J.png"/>
 </p>
 <p>
-Right click on php_imap.dll and press enable. 
+
 </p>
 <br />
-Step 95:
+Step 95: Right-click on php_intl.dll and press enable. 
 <p>
 <img src="https://i.imgur.com/MpG23DV.png"/>
 </p>
 <p>
-Right-click on php_intl.dll and press enable. 
+
 </p>
 <br />
-Step 96:
+Step 96: Right-click on php_opcache.dll and press enable. 
 <p>
 <img src="https://i.imgur.com/C2konm3.png"/>
 </p>
 <p>
-Right-click on php_opcache.dll and press enable. 
+
 </p>
 <br />
-Step 97:
+Step 97: Next, go back into inetpub>wwwroot>osticket file/folder and rename the sampleconfig.php folder to just (ost-config.php).
 <p>
 <img src="https://i.imgur.com/Gn2UbEu.png"/>
 </p>
 <p>
-Next, go back into inetpub>wwwroot>osticket file/folder and rename the sampleconfig.php folder to just (ost-config.php).
+
 </p>
 <br />
-Step 98:
+Step 98: Right click on ost-config-php to assign permissions. Go to Properties. 
 <p>
 <img src="https://i.imgur.com/FRpBSbZ.png"/>
 </p>
@@ -822,232 +822,232 @@ Step 98:
 Right click on ost-config-php to assign permissions. Go to Properties. 
 </p>
 <br />
-Step 99:
+Step 99: Under the genreal tab make sure "include' is in the upper box then press ok.
 <p>
 <img src="https://i.imgur.com/PQRva00.png"/>
 </p>
 <p>
-Under the genreal tab make sure "include' is in the upper box then press ok.
+
 </p>
 <br />
-Step 100:
+Step 100: Go to Security and then press Advanced. Click on Disbale inheritance.
 <p>
 <img src="https://i.imgur.com/GRiGSCu.png"/>
 </p>
 <p>
-Go to Security and then press Advanced. Click on Disbale inheritance.
+
 </p>
 <br />
-Step 101:
+Step 101: Then click on remove all inherited permissions link.
 <p>
 <img src="https://i.imgur.com/GMTgDco.png"/>
 </p>
 <p>
-Then click on remove all inherited permissions link.
+
 </p>
 <br />
-Step 102:
+Step 102: Press the add button.
 <p>
 <img src="https://i.imgur.com/ll8ZKNG.png"/>
 </p>
 <p>
-Press the add button.
+
 </p>
 <br />
-Step 103:
+Step 103: Click on select a principle.
 <p>
 <img src="https://i.imgur.com/4mnIRBo.png"/>
 </p>
 <p>
-Click on select a principle.
+
 </p>
 <br />
-Step 104:
+Step 104: Then type in everyone in th object name box.
 <p>
 <img src="https://i.imgur.com/u833tp9.png"/>
 </p>
 <p>
-Then type in everyone in th object name box.
+
 </p>
 <br />
-Step 105:
+Step 105: Click on Check names.
 <p>
 <img src="https://i.imgur.com/7v5jWoS.png"/>
 </p>
 <p>
-Click on Check names. .
+
 </p>
 <br />
-Step 106:
+Step 106: Press Ok.
 <p>
 <img src="https://i.imgur.com/3tKVtQP.png"/>
 </p>
 <p>
-Press Ok.
+
 </p>
 <br />
-Step 107:
+Step 107: Check off the full control box and press ok.
 <p>
 <img src="https://i.imgur.com/6qYJkyy.png"/>
 </p>
 <p>
-Check off the full control box and press ok.
+
 </p>
 <br />
-Step 108:
+Step 108: Extentions and permissions should be enabled at this point of the installation and the osTicket Basic Installation page should be showing in your browser. Now its time to set up the system settings. Insert a helpdesk name, put in a default email and select primary language.
 <p>
 <img src="https://i.imgur.com/GWGeIDb.png"/>
 </p>
 <p>
-Extentions and permissions should be enabled at this point of the installation and the osTicket Basic Installation page should be showing in your browser. Now its time to set up the system settings. Insert a helpdesk name, put in a default email and select primary language.
+
 </p>
 <br />
-Step 109:
+Step 109: For admin user put in your first name, last name, an email address ( must be different from the one above), a username and password.
 <p>
 <img src="https://i.imgur.com/sEc5JrX.png"/>
 </p>
 <p>
-For admin user put in your first name, last name, an email address ( must be different from the one above), a username and password.
+
 </p>
 <br />
-Step 110:
+Step 110: Before setting up database settings, HeidiSQL needs to be set up. Go back into the OsTicket file folder on the desktop of the osTicket-vm remote desktop. Click on HeidiSQL_ 12.3.0.6589 and the license agreement page should pop up.
 <p>
 <img src="https://i.imgur.com/atV6PW3.png"/>
 </p>
 <p>
-Before setting up database settings, HeidiSQL needs to be set up. Go back into the OsTicket file folder on the desktop of the osTicket-vm remote desktop. Click on HeidiSQL_ 12.3.0.6589 and the license agreement page should pop up.
+
 </p>
 <br />
-Step 111:
+Step 111: Press on the I accept agreement option and then click next.
 <p>
 <img src="https://i.imgur.com/8JkuVaN.png"/>
 </p>
 <p>
-Press on the I accept agreement option and then click next.
+
 </p>
 <br />
-Step 112:
+Step 112: Click next on the Selct Destination Location page. 
 <p>
 <img src="https://i.imgur.com/AMV7dnh.png"/>
 </p>
 <p>
-Click next on the Selct Destination Location page. 
+
 </p>
 <br />
-Step 113:
+Step 113: Press next on Select Start Menu Folder. 
 <p>
 <img src="https://i.imgur.com/pUIuVwQ.png"/>
 </p>
 <p>
-Press next on Select Start Menu Folder. 
+
 </p>
 <br />
-Step 114:
+Step 114: Click install on the Ready to Install page. 
 <p>
 <img src="https://i.imgur.com/IQPChH5.png"/>
 </p>
 <p>
-Click install on the Ready to Install page. 
+
 </p>
 <br />
-Step 115:
+Step 115: File should begin to install, make sure it install's until completion. 
 <p>
 <img src="https://i.imgur.com/YbiMXlK.png"/>
 </p>
 <p>
-File should begin to install, make sure it install's until completion. 
+
 </p>
 <br />
-Step 116:
+Step 116: On the Donate page just press finish. 
 <p>
 <img src="https://i.imgur.com/TSwTDGT.png"/>
 </p>
 <p>
-On the Donate page just press finish. 
+
 </p>
 <br />
-Step 117:
+Step 117: Next a new session needs to be created in HeidiSQL. Click on new. 
 <p>
 <img src="https://i.imgur.com/pomtLQL.png"/>
 </p>
 <p>
-Next a new session needs to be created in HeidiSQL. Click on new. 
+
 </p>
 <br />
-Step 118:
+Step 118: Type in the word root in both the username and password boxes on the right hand side of the session manager app. 
 <p>
 <img src="https://i.imgur.com/ypKp9kK.png"/>
 </p>
 <p>
-Type in the word root in both the username and password boxes on the right hand side of the session manager app. 
+
 </p>
 <br />
-Step 119:
+Step 119: Click open then connect to session.
 <p>
 <img src="https://i.imgur.com/fSzstEn.png"/>
 </p>
 <p>
-Click open then connect to session.
+
 </p>
 <br />
-Step 120:
+Step 120: Right click on dolphin image in upper left hand corner to create a new database.
 <p>
 <img src="https://i.imgur.com/x2JIZEL.png"/>
 </p>
 <p>
-Right click on dolphin image in upper left hand corner to create a new database.
+
 </p>
 <br />
-Step 121:
+Step 121: Click on create new, then database
 <p>
 <img src="https://i.imgur.com/t46f1T1.png"/>
 </p>
 <p>
-Click on create new, then database
+
 </p>
 <br />
-Step 122:
+Step 122: Create database box should pop up. Insert osTicket in the name box, then press ok.
 <p>
 <img src="https://i.imgur.com/DuRWDsV.png"/>
 </p>
 <p>
-Create database box should pop up. Insert osTicket in the name box, then press ok.
+
 </p>
 <br />
-Step 123:
+Step 123: Go back to OsTicket in the web browser of the remote desktop. Under Database settings for MySQL Databse box type in osTicket and for the MYSQL username and password type in the word "root". Click install now.
 <p>
 <img src="https://i.imgur.com/uydglTg.png"/>
 </p>
 <p>
-Go back to OsTicket in the web browser of the remote desktop. Under Database settings for MySQL Databse box type in osTicket and for the MYSQL username and password type in the word "root". Click install now.
+
 </p>
 <br />
-Step 124:
+Step 124: OsTicket is finally installed. Make sure to bookmark the osTicket url link and the Your Staff Control Panel Link for the next project tutorial walkthrough.
 <p>
 <img src="https://i.imgur.com/E79sRQ5.png"/>
 </p>.
 <p>
-OsTicket is finally installed. Make sure to bookmark the osTicket url link and the Your Staff Control Panel Link for the next project tutorial walkthrough. 
+
 </p>
 <br />
-Step 125:
+Step 125: Here is the support center page where backend users will use to submit thier tickets.
 <p>
 <img src="https://i.imgur.com/HPZ9sG0.png"/>
 </p>
 <p>
-Here is the support center page where backend users will use to submit thier tickets.
+
 </p>
 <br />
-Step 126:
+Step 126: Here is the page where desk agents and admins login to process and resolve the tickets.
+</p>
+This here concludes the project tutorial of the prerequisites, installation and walkthrough of the osTicket Ticketing System.
+
 <p>
 <img src="https://i.imgur.com/Dqe0dhN.png"/>
 </p>
 <p>
-Here is the page where desk agents and admins login to process and resolve the tickets.
 
-This here concludes the project tutorial of the prerequisites, installation and walkthrough of the osTicket Ticketing System.
-</p>
-<br />
+
 
 
 
