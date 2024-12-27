@@ -164,7 +164,7 @@ Step 15: Copy the Public IP address of the  osTicket-vm.
 
 </p>
 <br />
-Step 16: Go into remote desktop and add the osTicket-vm under add a pc. Make sure to paste the ip adddress within pc name box and in display name call it osTicket-vm then press save.
+Step 16: Go into remote desktop and add the osTicket-vm under add a pc. Make sure to paste the ip address within pc name box and in display name call it osTicket-vm then press save.
 </p>
 <p>
 <img src="https://i.imgur.com/olfcXin.png"/>
