@@ -508,7 +508,7 @@ Step 52: Next, install the MySQL 5.5.62 file. (mysql-5.5.62-win32) Click on and 
 
 </p>
 <br />
-Step 53: The MySQL serve page should pop up. Press next.
+Step 53: The MySQL server page should pop up. Press next.
 </p>
 <p>
 <img src="https://i.imgur.com/2HsOkeG.png"/>
