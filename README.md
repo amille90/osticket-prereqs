@@ -588,7 +588,7 @@ Step 61: Press next.
 
 </p>
 <br />
-Step 62: Enter in the word "root" in both boxes.
+Step 62: Enter in the word "root" in both boxes, then press next.
 </p>
 <p>
 <img src="https://i.imgur.com/QpnFLyr.png"/>
