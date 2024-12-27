@@ -29,140 +29,140 @@ This project tutorial outlines, observes, and walks through the prerequisites an
 
 </p>
 
-Step 1:
+Step 1: Log into Azure and go to Virtual Machines
 <p>
 <img src="https://i.imgur.com/IUkxUna.png"/>
 </p>
 <p>
-Log into Azure and go to Virtual Machines
+
 </p>
 <br />
-Step 2:
+Step 2: Click on the +create tab and then press on Azure virtual machine.
 <p>
 <img src="https://i.imgur.com/xReHfgM.png"/>
 </p>
 <p>
-Click on the +create tab and then press on Azure virtual machine.
+
 </p>
 <br />
-Step 3:
+Step 3: For resource group ceate a new one and call it OsTicketLab_RG or create your own name.
 <p>
 <img src="https://i.imgur.com/gKvWXMX.png"/>
 </p>
 <p>
-For resource group ceate a new one and call it OsTicketLab_RG or create your own name.
+
 </p>
 <br />
 
-Step 4:
+Step 4: For virtual machine name call it osticket-vm, and choose appropiate region according to your location.
 <p>
 <img src="https://i.imgur.com/ClhJtv5.png"/>
 </p>
 <p>
-For virtual machine name call it osticket-vm, and choose appropiate region according to your location.
+
 </p>
 <br />
-Step 5: 
+Step 5: Choose an availabilty zone.
 <p>
 <img src="https://i.imgur.com/Tr3B098.png"/>
 </p>
 <p>
-Choose an availabilty zone.
+
 </p>
 <br />
-Step 6:
+Step 6: For image choose Windows10 Pro, version 22H2.
 <p>
 <img src="https://i.imgur.com/yf3abbq.png"/>
 </p>
 <p>
-For image choose Windows10 Pro, version 22H2.
+
 </p>
 <br />
-Step 7:
+Step 7: For size click on standard_D2s_v3-2 vcpus, 8 GiB memory.
 <p>
 <img src="https://i.imgur.com/KPYAXj7.png"/>
 </p>
 <p>
-For size click on standard_D2s_v3-2 vcpus, 8 GiB memory.
+
 </p>
 <br />
-Step 8:
+Step 8: Underneath Administrator Account create a username and password. These will be the credentials used to log onto the osTicket-vm within Remote Desktop. 
 <p>
 <img src="https://i.imgur.com/3g3S8Yh.png"/>
 </p>
-Underneath Administrator Account create a username and password. These will be the credentials used to log onto the osTicket-vm within Remote Desktop. 
+ 
 </p>
 <br />
-Step 9:
+Step 9: Make sure to check off the checkbox underneath licensing.
 <p>
 <img src="https://i.imgur.com/x1RTUsx.png"/>
 </p>
 <p>
-Make sure to check off the checkbox underneath licensing.
+
 </p>
 <br />
-Step 10:
+Step 10: Press Review and Create.
 <p>
 <img src="https://i.imgur.com/POciVcQ.png"/>
 </p>
 <p>
-Press Review and Create.
+
 </p>
 <br />
-Step 11:
+Step 11: Validation banner should pop up. Press Create.
 <p>
 <img src="https://i.imgur.com/5O25ETN.png"/>
 </p>
 <p>
-Validation banner should pop up. Press Create.
+
 </p>
 <br />
-Step 12:
+Step 12: Next, deployment in progress page will pop up.
 <p>
 <img src="https://i.imgur.com/sG5ZzKS.png"/>
 </p>
 <p>
-Next, deployment in progress page will pop up.
+
 </p>
 <br />
-Step 13:
+Step 13: Deployment should be complete.
 <p>
 <img src="https://i.imgur.com/gjW6bxW.png"/>
 </p>
 <p>
-Deployment should be complete.
+
 </p>
 <br />
-Step 14:
+Step 14: Go back into virtual machines in Azure and you will now see the osTicket-vm added to your list of virtual machines created. Click on the osTicket-vm.
 <p>
 <img src="https://i.imgur.com/u3SRwrA.png"/>
 </p>
 <p>
-Go back into virtual machines in Azure and you will now see the osTicket-vm added to your list of virtual machines created. Click on the osTicket-vm.
+
 </p>
 <br />
-Step 15:
+Step 15: Copy the Public IP address of the  osTicket-vm.
 <p>
 <img src="https://i.imgur.com/GRFmURu.png"/>
 </p>
 <p>
-Copy the Public IP address of the  osTicket-vm.
+
 </p>
 <br />
-Step 16:
+Step 16: Go into remote desktop and add the osTicket-vm under add a pc. Make sure to paste the ip adddress within pc name box and in display name call it osTicket-vm then press save.
 <p>
 <img src="https://i.imgur.com/olfcXin.png"/>
 </p>
 <p>
-Go into remote desktop and add the osTicket-vm under add a pc. Make sure to paste the ip adddress within pc name box and in display name call it osTicket-vm then press save.
+
 </p>
 <br />
-Step 17:
+Step 17: After adding the osTicket-vm pc now log into it with the credentials you created in the Adminstrator Account section while creating the virtual machine in Azure.
 <p>
 <img src="https://i.imgur.com/3NQh08n.png"/>
 </p>
 <p>
-After adding the osTicket-vm pc now log into it with the credentials you created in the Adminstrator Account section while creating the virtual machine in Azure.
+
 </p>
 <br />
 
@@ -175,33 +175,33 @@ After adding the osTicket-vm pc now log into it with the credentials you created
 
 </p>
 <br />
-Step 18:
+Step 18: Upload the osTicket installation file onto your computer. 
 <p>
 
 <img src="https://i.imgur.com/0GYKC6z.png"/>
 </p>
 <p>
-Upload the osTicket installation file onto your computer. 
+
 </p>
 <br />
-Step 19:
+Step 19: Now download and drag the file onto your desktop. If you open up the file in file explorer you will see there are multiple files to be installed within that one zip folder. The following steps will walkthrough on how to do that.
 <p>
 <img src="https://i.imgur.com/hjaRlgZ.png"/> 
 </p>
 <img src="https://i.imgur.com/lSXJAFT.png"/>
 <p>
-Now download and drag the file onto your desktop. If you open up the file in file explorer you will see there are multiple files to be installed within that one zip folder. The following steps will walkthrough on how to do that.
+
 </p>
 <br />
-Step 20: 
+Step 20: Go to the home menu of the osticket-vm remote desktop and type in Control Panel. Click on and open it. The control panel is where IIS and CGI will be installed and enabled.
 <p>
 <img src="https://i.imgur.com/YeDJ4Vy.png"/>
 </p>
 <p>
-Go to the home menu of the osticket-vm remote desktop and type in Control Panel. Click on and open it. The control panel is where IIS and CGI will be installed and enabled.
+
 </p>
 <br />
-Step 21:
+Step 21: Go to Programs/Uninstall a program.
 <p>
 <img src="https://i.imgur.com/s3POcNt.png"/>
 </p>
@@ -209,236 +209,237 @@ Step 21:
 Go to Programs/Uninstall a program.
 </p>
 <br />
-Step 22:
+Step 22: Next, click on Turn Windows features on or off.
 <p>
 <img src="https://i.imgur.com/zD4r7FM.png"/>
 </p>
 <p>
-Next, click on Turn Windows features on or off.
+
 </p>
 <br />
-Step 23:
+Step 23: The Turn Windows features on/off box will pop up. Check of Internet Information Services then expand the dropdown box.
 <p>
 <img src="https://i.imgur.com/O6aLeeE.png"/>
 </p>
 <p>
-The Turn Windows features on/off box will pop up. Check of Internet Information Services then expand the dropdown box.
+
 </p>
 <br />
-Step 24:
+Step 24: Next expand World Wide Web services. 
 <p>
 <img src="https://i.imgur.com/Ct62fP1.png"/>
 </p>
 <p>
-Next expand World Wide Web services. 
+ 
 </p>
 <br />
-Step 25:
+Step 25: Next expand Application Development features and check off CGI. 
 <p>
 <img src="https://i.imgur.com/08Kq3XK.png"/>
 </p>
 <p>
-Next expand Application Development features and check off CGI. 
+
 </p>
 <br />
-Step 26:
+Step 26: Press OK.
 <p>
 <img src="https://i.imgur.com/bYbubpk.png"/>
 </p>
 <p>
-Press OK.
+
 </p>
 <br />
-Step 27:
+Step 27: Windows will begin to search for and install the required files.
 <p>
 <img src="https://i.imgur.com/0f9vnC6.png"/>
 </p>
 <p>
-Windows will begin to search for and install the required files.
+
 </p>
 <br />
-Step 28: 
+Step 28: Press close after Windows has completed the requested changes.
 <p>
 <img src="https://i.imgur.com/Z5oNh7i.png"/>
 </p>
 <p>
-Press close after Windows has completed the requested changes.
+
 </p>
 <br />
-Step 29:
+Step 29: Next, go into the internet browser within the osTicket-vm remote desktop and type in 127.0.0.1. Press enter and the information services (IIS) page should pop up. FYI: If this page is not activated OsTicket can't be installed.
 <p>
 <img src="https://i.imgur.com/x3WJADU.png"/>
 </p>
 <p>
-Next, go into the internet browser within the osTicket-vm remote desktop and type in 127.0.0.1. Press enter and the information services (IIS) page should pop up. FYI: If this page is not activated OsTicket can't be installed.
+
 </p>
 <br />
-Step 30:
+Step 30: From the osTicket installation files folder install the PHP Manager for IIS.(PHPManagerForIIS_V1.5.0.msi) Click on the file to open up.
 <p>
 <img src="https://i.imgur.com/11dNOgV.png"/>
 </p>
 <p>
-From the osTicket installation files folder install the PHP Manager for IIS.(PHPManagerForIIS_V1.5.0.msi) Click on the file to open up.
+
 </p>
 <br />
-Step 31:
+Step 31: The first slide should pop up of the PHP Manager. Press next to continue. 
 <p>
 <img src="https://i.imgur.com/LfyWpwD.png"/>
 </p>
 <p>
-The first slide should pop up of the PHP Manager. Press next to continue. 
+
 </p>
 <br />
-Step 32:
+Step 32: For the liscense agreement press agree and them click next.
 <p>
 <img src="https://i.imgur.com/Qiz42Yl.png"/>
 </p>
 <p>
-For the liscense agreement press agree and them click next.
+
 </p>
 <br />
-Step 33:
+Step 33: The PHP Manager will begin to install. Alllow for it to finish downloading. 
 <p>
 <img src="https://i.imgur.com/Epv6Eko.png"/>
 </p>
 <p>
-The PHP Manager will begin to install. Alllow for it to finish downloading. 
+
 </p>
 <br />
-Step 34:
+Step 34: Installation is now complete. Press close. 
 <p>
 <img src="https://i.imgur.com/n0I0S9u.png"/>
 </p>
 <p>
-Installation is now complete. Press close. 
+
 </p>
 <br />
-Step 35:
+Step 35: Next, install the rewrite module. Click on to open up. (rewrite_amd64_en-US.msi)
 <p>
 <img src="https://i.imgur.com/bgvF7bT.png"/>
 </p>
 <p>
-Next, install the rewrite module. Click on to open up. (rewrite_amd64_en-US.msi) 
+
 </p>
 <br />
-Step 36:
+Step 36: The first page of the rewrite module should pop up, press install.
 <p>
 <img src="https://i.imgur.com/MPEWNZX.png"/>
 </p>
 <p>
-The first page of the rewrite module should pop up, press install.
+
 </p>
 <br />
-Step 37:
+Step 37: The installation process will begin, let run until complete.
 <p>
 <img src="https://i.imgur.com/38ur5nD.png"/>
 </p>
 <p>
-The installation process will begin, let run until complete.
+
 </p>
 <br />
-Step 38:
+Step 38: Once the file is done being installed, press finish. 
 <p>
 <img src="https://i.imgur.com/FMwCAPF.png"/>
 </p>
 <p>
-Once the file is done being installed, press finish. 
+
 </p>
 <br />
-Step 39:
+Step 39: Next, create a directory for the PHP folder.( C:\PHP) Click on and open up file explorer inside of osTicket-vm Remote Desktop.
 <p>
 <img src="https://i.imgur.com/MLNHyX0.png"/>
 </p>
 <p>
-Next, create a directory for the PHP folder.( C:\PHP) Click on and open up file explorer inside of osTicket-vm Remote Desktop.
+
 </p>
 <br />
-Step 40:
+Step 40: Next, click on and open up C drive.
 <p>
 <img src="https://i.imgur.com/ZNFxCpL.png"/>
 </p>
 <p>
-Next, click on and open up C drive.
+
 </p>
 <br />
-Step 41:
+Step 41: Then right click to create new folder. 
 <p>
 <img src="https://i.imgur.com/7B2dYP0.png"/>
 </p>
 <p>
-Then right click to create new folder. 
+
 </p>
 <br />
-Step 42:
+Step 42: Name the folder PHP.
 <p>
 <img src="https://i.imgur.com/yrqvzAT.png"/>
 </p>
 <p>
-Name the folder PHP.
+
 </p>
 <br />
-Step 43:
+Step 43: Next, unzip and isntall the PHP 7.3.8 folder.(php-7.3.8-nts-Win32-VC15-x86.zip) Right click and press extract all.
 <p>
 <img src="https://i.imgur.com/TuYtgZe.png"/>
 </p>
 <p>
-Next, unzip and isntall the PHP 7.3.8 folder.(php-7.3.8-nts-Win32-VC15-x86.zip) Right click and press extract all.
+
 </p>
 <br />
-Step 44:
+Step 44: The Select Destination and Extract Files page will pop up. 
 <p>
 <img src="https://i.imgur.com/CSugTVx.png"/>
 </p>
 <p>
-The Select Destination and Extract Files page will pop up. 
+
 </p>
 <br />
-Step 45:
+Step 45: Press Browse.
 <p>
 <img src="https://i.imgur.com/Exw2dNc.png"/>
 </p>
 <p>
-Press Browse.
+
 </p>
 <br />
-Step 46:
+Step 46: Click on PHP folder and press select folder.
 <p>
 <img src="https://i.imgur.com/rimw5pE.png"/>
 </p>
 <p>
-Click on PHP folder and press select folder.
+
 </p>
 <br />
-Step 47:
+Step 47: The  destination and extract files page should come back up. Press Extract.
+
 <p>
 <img src="https://i.imgur.com/2aiP26w.png"/>
 </p>
 <p>
-The  destination and extract files page should come back up. Press Extract.
+
 </p>
 <br />
-Step 48:
+Step 48: Files will begin to download and install.
 <p>
 <img src="https://i.imgur.com/Q8Ucb7D.png"/>
 </p>
 <p>
-Files will begin to download and install.
+
 </p>
 <br />
-Step 49:
+Step 49: Next install the VC_redist.x86.exe file. Click on and open up.
 <p>
 <img src="https://i.imgur.com/wMV7x3r.png"/>
 </p>
 <p>
-Next install the VC_redist.x86.exe file. Click on and open up.
+
 </p>
 <br />
-Step 50:
+Step 50: The Microsoft Visual C++ page should pop up. Press Install. 
 <p>
 <img src="https://i.imgur.com/WDDereN.png"/>
 </p>
 <p>
-The Microsoft Visual C++ page should pop up. Press Install. 
+
 </p>
 <br />
 Step 51:
