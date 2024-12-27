@@ -1163,7 +1163,7 @@ Step 125: Here is the support center page where backend users will use to submit
 <br />
 Step 126: Here is the page where desk agents and admins login to process and resolve the tickets.
 </p>
-This here concludes the project tutorial of the prerequisites, installation and walkthrough of the osTicket Ticketing System.
+This here concludes the project tutorial of the prerequisites, installation and walkthrough of osTicket Ticketing System.
 </p>
 <p>
 <img src="https://i.imgur.com/Dqe0dhN.png"/>
