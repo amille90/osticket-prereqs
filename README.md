@@ -828,7 +828,7 @@ Step 88: On the right hand side of IIS Manager click on Browse*80(http).
 
 </p>
 <br />
-Step 89: Go back to the internet browser of the osTicket-vm remote desktop and the osTicket installer page should take place of the blue IIS hompage (127.0.0.1). To complete the osTicket installation some extentions need to be enabled.
+Step 89: Go back to the internet browser of the osTicket-vm remote desktop and the osTicket installer page should now be accessible. To complete the osTicket installation some extentions need to be enabled.
 </p>
 <p>
 <img src="https://i.imgur.com/b8sMW2D.png"/>
