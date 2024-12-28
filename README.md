@@ -918,7 +918,7 @@ Step 98: Right click on ost-config-php to assign permissions. Go to Properties.
 
 </p>
 <br />
-Step 99: Under the genreal tab make sure "include' is in the upper box then press ok.
+Step 99: Under the genreal tab make sure 'include' is in the upper box then press ok.
 </p>
 <p>
 <img src="https://i.imgur.com/PQRva00.png"/>
