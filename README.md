@@ -517,7 +517,7 @@ Step 53: The MySQL server page should pop up. Press next.
 
 </p>
 <br />
-Step 54: Press next for the end-user agreement.
+Step 54: Make sure the accept terms box is checked off then press next for the end-user agreement.
 </p>
 <p>
 <img src="https://i.imgur.com/kmNx9UQ.png"/>
