@@ -319,7 +319,7 @@ Step 31: The first slide should pop up of the PHP Manager. Press next to continu
 
 </p>
 <br />
-Step 32: For the liscense agreement press agree and them click next.
+Step 32: For the liscense agreement press agree and then click next.
 </p>
 <p>
 <img src="https://i.imgur.com/Qiz42Yl.png"/>
