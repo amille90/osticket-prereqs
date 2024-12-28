@@ -712,7 +712,7 @@ Step 75: Go back into the osTicket file folder in file explorer and click on th 
 
 </p>
 <br />
-Step 76: Press the Extract button on the next page.
+Step 76: Press the Extract button.
 </p>
 <p>
 <img src="https://i.imgur.com/ZodW3Ct.png"/>
